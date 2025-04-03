@@ -1,0 +1,19 @@
+.my-bg{
+    color: white;
+    background-image: url(../image/overlay-bg.jpg);
+    background-size: cover;
+}
+.contact .container div h1,h4,p:hover{
+    color: blue;
+
+
+}
+.card-img-top{
+    width: 100%;
+    height: 150px;
+}
+#cards-container{
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
